@@ -1,12 +1,12 @@
 {
-  "name": "hexo-pdf",
-  "version": "1.1.1",
+  "name": "hexo-flash",
+  "version": "1.0.0",
   "description": "A Hexo tag extension which allows you to embed pdf on your posts",
   "main": "index",
   "engines": {
     "node": ">= 0.10.0"
   },
-  "repository": "http://github.com/superalsrk/hexo-pdf",
+  "repository": "https://github.com/vitaminac/hexo-flash",
   "keywords": [
     "hexo",
     "pdf",
