@@ -17,6 +17,7 @@ hexo.extend.tag.register('flash', function (args) {
     var htmlTml = ejs.compile(fs.readFileSync(htmlTmlSrc, 'utf-8'))
 
     return htmlTml({
-        "src": args[0]
+        "src": args[0],
+        "height": args[1]
     });
 });
