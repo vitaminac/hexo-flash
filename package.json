@@ -1,7 +1,7 @@
 {
   "name": "hexo-flash",
   "version": "1.0.0",
-  "description": "A Hexo tag extension which allows you to embed pdf on your posts",
+  "description": "A Hexo tag extension which allows you to embed flash on your posts",
   "main": "index",
   "engines": {
     "node": ">= 0.10.0"
@@ -12,9 +12,9 @@
     "pdf",
     "tag"
   ],
-  "author": "SRK.Lyu <superalsrk@gmail.com> (http://stackbox.org)",
+  "author": "vitaminac",
   "license": "MIT",
   "dependencies": {
-    "ejs": "^1.0.0"
+    "ejs": "^3.1.6"
   }
 }
